@@ -15,4 +15,4 @@ arva(arvamiseks) and arvaLihtandmed(kategooria, summa) are related. arvaLihtandm
 biggestFunding() and smallestFunding() are also quite similar.
 they start by calling out tabelAndmetest(), then define min/max of certain columns (discounting 0), and return the min/max's applicationround_title, approved_amount, managing_organization_name, name and project_name.
 
-our last cell depicts our (deprecated) program (for PC). it has 4 tabs, one for information about us and the project, one about predicting data using arvaLihtandmeid(), one for biggestFunding() and one for smallestFunding().
+our last cell depicts our program (for PC). it has 4 tabs, one for information about us and the project, one about predicting data using arvaLihtandmeid(), one for biggestFunding() and one for smallestFunding().
